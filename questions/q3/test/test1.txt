@@ -1,0 +1,13 @@
+12
+AM
+A#M
+BM
+CM
+C#M
+DM
+D#M
+EM
+FM
+F#M
+GM
+G#M
